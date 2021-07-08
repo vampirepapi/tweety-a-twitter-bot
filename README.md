@@ -10,7 +10,7 @@
 ### :star: Star us on GitHub — it motivates me a lot!
 
 
-<p align="center"><img src=""></p>
+<p align="center"><img src="https://github.com/vampirepapi/mojitopapi---a-bionic-alterego/blob/master/images/scrennshot.JPG"></p>
 
 
 
@@ -18,7 +18,7 @@
 
 #### Clone the repo
 ```
-$ git clone https://github.com/
+$ git clone https://github.com/vampirepapi/mojitopapi---a-bionic-alterego.git
 ```
 
 #### Install tweepy Python module
